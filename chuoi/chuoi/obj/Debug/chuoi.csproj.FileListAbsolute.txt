@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\chuoi\chuoi\bin\Debug\chuoi.exe.config
+C:\Users\csdat\source\repos\chuoi\chuoi\bin\Debug\chuoi.exe
+C:\Users\csdat\source\repos\chuoi\chuoi\bin\Debug\chuoi.pdb
+C:\Users\csdat\source\repos\chuoi\chuoi\obj\Debug\chuoi.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\chuoi\chuoi\obj\Debug\chuoi.Form1.resources
+C:\Users\csdat\source\repos\chuoi\chuoi\obj\Debug\chuoi.Properties.Resources.resources
+C:\Users\csdat\source\repos\chuoi\chuoi\obj\Debug\chuoi.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\chuoi\chuoi\obj\Debug\chuoi.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\chuoi\chuoi\obj\Debug\chuoi.exe
+C:\Users\csdat\source\repos\chuoi\chuoi\obj\Debug\chuoi.pdb

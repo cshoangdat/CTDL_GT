@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\tree_form\tree_form\bin\Debug\tree_form.exe.config
+C:\Users\csdat\source\repos\tree_form\tree_form\bin\Debug\tree_form.exe
+C:\Users\csdat\source\repos\tree_form\tree_form\bin\Debug\tree_form.pdb
+C:\Users\csdat\source\repos\tree_form\tree_form\obj\Debug\tree_form.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\tree_form\tree_form\obj\Debug\tree_form.Form1.resources
+C:\Users\csdat\source\repos\tree_form\tree_form\obj\Debug\tree_form.Properties.Resources.resources
+C:\Users\csdat\source\repos\tree_form\tree_form\obj\Debug\tree_form.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\tree_form\tree_form\obj\Debug\tree_form.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\tree_form\tree_form\obj\Debug\tree_form.exe
+C:\Users\csdat\source\repos\tree_form\tree_form\obj\Debug\tree_form.pdb

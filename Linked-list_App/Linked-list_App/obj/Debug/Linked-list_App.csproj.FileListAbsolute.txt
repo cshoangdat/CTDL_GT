@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\bin\Debug\Linked-list_App.exe.config
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\bin\Debug\Linked-list_App.exe
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\bin\Debug\Linked-list_App.pdb
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\obj\Debug\Linked-list_App.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\obj\Debug\Linked_list_App.Form1.resources
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\obj\Debug\Linked_list_App.Properties.Resources.resources
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\obj\Debug\Linked-list_App.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\obj\Debug\Linked-list_App.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\obj\Debug\Linked-list_App.exe
+C:\Users\csdat\source\repos\Linked-list_App\Linked-list_App\obj\Debug\Linked-list_App.pdb

@@ -1,0 +1,7 @@
+C:\Users\csdat\source\repos\graph_dijstra\graph_dijstra\bin\Debug\graph_dijstra.exe.config
+C:\Users\csdat\source\repos\graph_dijstra\graph_dijstra\bin\Debug\graph_dijstra.exe
+C:\Users\csdat\source\repos\graph_dijstra\graph_dijstra\bin\Debug\graph_dijstra.pdb
+C:\Users\csdat\source\repos\graph_dijstra\graph_dijstra\obj\Debug\graph_dijstra.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\graph_dijstra\graph_dijstra\obj\Debug\graph_dijstra.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\graph_dijstra\graph_dijstra\obj\Debug\graph_dijstra.exe
+C:\Users\csdat\source\repos\graph_dijstra\graph_dijstra\obj\Debug\graph_dijstra.pdb

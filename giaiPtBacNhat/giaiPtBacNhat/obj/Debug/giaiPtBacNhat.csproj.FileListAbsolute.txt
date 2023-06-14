@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\bin\Debug\giaiPtBacNhat.exe.config
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\bin\Debug\giaiPtBacNhat.exe
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\bin\Debug\giaiPtBacNhat.pdb
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\obj\Debug\giaiPtBacNhat.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\obj\Debug\giaiPtBacNhat.Form1.resources
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\obj\Debug\giaiPtBacNhat.Properties.Resources.resources
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\obj\Debug\giaiPtBacNhat.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\obj\Debug\giaiPtBacNhat.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\obj\Debug\giaiPtBacNhat.exe
+C:\Users\csdat\source\repos\giaiPtBacNhat\giaiPtBacNhat\obj\Debug\giaiPtBacNhat.pdb

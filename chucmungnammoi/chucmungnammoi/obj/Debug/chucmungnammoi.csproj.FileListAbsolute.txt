@@ -1,0 +1,9 @@
+C:\Users\csdat\source\repos\chucmungnammoi\chucmungnammoi\bin\Debug\chucmungnammoi.exe.config
+C:\Users\csdat\source\repos\chucmungnammoi\chucmungnammoi\bin\Debug\chucmungnammoi.exe
+C:\Users\csdat\source\repos\chucmungnammoi\chucmungnammoi\bin\Debug\chucmungnammoi.pdb
+C:\Users\csdat\source\repos\chucmungnammoi\chucmungnammoi\obj\Debug\chucmungnammoi.Form1.resources
+C:\Users\csdat\source\repos\chucmungnammoi\chucmungnammoi\obj\Debug\chucmungnammoi.Properties.Resources.resources
+C:\Users\csdat\source\repos\chucmungnammoi\chucmungnammoi\obj\Debug\chucmungnammoi.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\chucmungnammoi\chucmungnammoi\obj\Debug\chucmungnammoi.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\chucmungnammoi\chucmungnammoi\obj\Debug\chucmungnammoi.exe
+C:\Users\csdat\source\repos\chucmungnammoi\chucmungnammoi\obj\Debug\chucmungnammoi.pdb

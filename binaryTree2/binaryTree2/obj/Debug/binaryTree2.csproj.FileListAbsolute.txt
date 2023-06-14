@@ -1,0 +1,7 @@
+C:\Users\csdat\source\repos\binaryTree2\binaryTree2\bin\Debug\binaryTree2.exe.config
+C:\Users\csdat\source\repos\binaryTree2\binaryTree2\bin\Debug\binaryTree2.exe
+C:\Users\csdat\source\repos\binaryTree2\binaryTree2\bin\Debug\binaryTree2.pdb
+C:\Users\csdat\source\repos\binaryTree2\binaryTree2\obj\Debug\binaryTree2.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\binaryTree2\binaryTree2\obj\Debug\binaryTree2.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\binaryTree2\binaryTree2\obj\Debug\binaryTree2.exe
+C:\Users\csdat\source\repos\binaryTree2\binaryTree2\obj\Debug\binaryTree2.pdb

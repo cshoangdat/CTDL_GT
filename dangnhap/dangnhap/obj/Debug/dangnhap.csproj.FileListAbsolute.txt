@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\dangnhap\dangnhap\bin\Debug\dangnhap.exe.config
+C:\Users\csdat\source\repos\dangnhap\dangnhap\bin\Debug\dangnhap.exe
+C:\Users\csdat\source\repos\dangnhap\dangnhap\bin\Debug\dangnhap.pdb
+C:\Users\csdat\source\repos\dangnhap\dangnhap\obj\Debug\dangnhap.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\dangnhap\dangnhap\obj\Debug\dangnhap.Form1.resources
+C:\Users\csdat\source\repos\dangnhap\dangnhap\obj\Debug\dangnhap.Properties.Resources.resources
+C:\Users\csdat\source\repos\dangnhap\dangnhap\obj\Debug\dangnhap.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\dangnhap\dangnhap\obj\Debug\dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\dangnhap\dangnhap\obj\Debug\dangnhap.exe
+C:\Users\csdat\source\repos\dangnhap\dangnhap\obj\Debug\dangnhap.pdb

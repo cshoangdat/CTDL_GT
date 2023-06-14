@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\graph_app\graph_app\bin\Debug\graph_app.exe.config
+C:\Users\csdat\source\repos\graph_app\graph_app\bin\Debug\graph_app.exe
+C:\Users\csdat\source\repos\graph_app\graph_app\bin\Debug\graph_app.pdb
+C:\Users\csdat\source\repos\graph_app\graph_app\obj\Debug\graph_app.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\graph_app\graph_app\obj\Debug\graph_app.Form1.resources
+C:\Users\csdat\source\repos\graph_app\graph_app\obj\Debug\graph_app.Properties.Resources.resources
+C:\Users\csdat\source\repos\graph_app\graph_app\obj\Debug\graph_app.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\graph_app\graph_app\obj\Debug\graph_app.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\graph_app\graph_app\obj\Debug\graph_app.exe
+C:\Users\csdat\source\repos\graph_app\graph_app\obj\Debug\graph_app.pdb

@@ -1,0 +1,15 @@
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\bin\Debug\MicroWMP.exe.config
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\bin\Debug\MicroWMP.exe
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\bin\Debug\MicroWMP.pdb
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\MicroWMP.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\MicroWMP.csproj.ResolveComReference.cache
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\MicroWMP.Form1.resources
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\MicroWMP.Properties.Resources.resources
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\MicroWMP.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\MicroWMP.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\MicroWMP.exe
+C:\Users\csdat\source\repos\MicroWMP\MicroWMP\obj\Debug\MicroWMP.pdb

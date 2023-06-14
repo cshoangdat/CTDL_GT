@@ -1,0 +1,7 @@
+C:\Users\csdat\source\repos\graph_onclass\graph_onclass\bin\Debug\graph_onclass.exe.config
+C:\Users\csdat\source\repos\graph_onclass\graph_onclass\bin\Debug\graph_onclass.exe
+C:\Users\csdat\source\repos\graph_onclass\graph_onclass\bin\Debug\graph_onclass.pdb
+C:\Users\csdat\source\repos\graph_onclass\graph_onclass\obj\Debug\graph_onclass.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\graph_onclass\graph_onclass\obj\Debug\graph_onclass.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\graph_onclass\graph_onclass\obj\Debug\graph_onclass.exe
+C:\Users\csdat\source\repos\graph_onclass\graph_onclass\obj\Debug\graph_onclass.pdb

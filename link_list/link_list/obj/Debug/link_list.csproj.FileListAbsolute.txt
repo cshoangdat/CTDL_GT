@@ -1,0 +1,7 @@
+C:\Users\csdat\source\repos\link_list\link_list\bin\Debug\link_list.exe.config
+C:\Users\csdat\source\repos\link_list\link_list\bin\Debug\link_list.exe
+C:\Users\csdat\source\repos\link_list\link_list\bin\Debug\link_list.pdb
+C:\Users\csdat\source\repos\link_list\link_list\obj\Debug\link_list.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\link_list\link_list\obj\Debug\link_list.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\link_list\link_list\obj\Debug\link_list.exe
+C:\Users\csdat\source\repos\link_list\link_list\obj\Debug\link_list.pdb

@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\Mang_2\Mang_2\bin\Debug\Mang_2.exe.config
+C:\Users\csdat\source\repos\Mang_2\Mang_2\bin\Debug\Mang_2.exe
+C:\Users\csdat\source\repos\Mang_2\Mang_2\bin\Debug\Mang_2.pdb
+C:\Users\csdat\source\repos\Mang_2\Mang_2\obj\Debug\Mang_2.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\Mang_2\Mang_2\obj\Debug\Mang_2.Form1.resources
+C:\Users\csdat\source\repos\Mang_2\Mang_2\obj\Debug\Mang_2.Properties.Resources.resources
+C:\Users\csdat\source\repos\Mang_2\Mang_2\obj\Debug\Mang_2.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\Mang_2\Mang_2\obj\Debug\Mang_2.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\Mang_2\Mang_2\obj\Debug\Mang_2.exe
+C:\Users\csdat\source\repos\Mang_2\Mang_2\obj\Debug\Mang_2.pdb

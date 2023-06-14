@@ -1,0 +1,7 @@
+C:\Users\csdat\source\repos\DefAndUseObject\DefAndUseObject\bin\Debug\DefAndUseObject.exe.config
+C:\Users\csdat\source\repos\DefAndUseObject\DefAndUseObject\bin\Debug\DefAndUseObject.exe
+C:\Users\csdat\source\repos\DefAndUseObject\DefAndUseObject\bin\Debug\DefAndUseObject.pdb
+C:\Users\csdat\source\repos\DefAndUseObject\DefAndUseObject\obj\Debug\DefAndUseObject.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\DefAndUseObject\DefAndUseObject\obj\Debug\DefAndUseObject.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\DefAndUseObject\DefAndUseObject\obj\Debug\DefAndUseObject.exe
+C:\Users\csdat\source\repos\DefAndUseObject\DefAndUseObject\obj\Debug\DefAndUseObject.pdb

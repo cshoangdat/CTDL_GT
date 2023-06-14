@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\bin\Debug\Stack_Queue_Deque_App.exe.config
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\bin\Debug\Stack_Queue_Deque_App.exe
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\bin\Debug\Stack_Queue_Deque_App.pdb
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\obj\Debug\Stack_Queue_Deque_App.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\obj\Debug\Stack_Queue_Deque_App.Form1.resources
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\obj\Debug\Stack_Queue_Deque_App.Properties.Resources.resources
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\obj\Debug\Stack_Queue_Deque_App.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\obj\Debug\Stack_Queue_Deque_App.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\obj\Debug\Stack_Queue_Deque_App.exe
+C:\Users\csdat\source\repos\Stack_Queue_Deque_App\Stack_Queue_Deque_App\obj\Debug\Stack_Queue_Deque_App.pdb

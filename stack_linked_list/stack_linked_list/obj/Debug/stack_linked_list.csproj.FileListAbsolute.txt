@@ -1,0 +1,7 @@
+C:\Users\csdat\source\repos\stack_linked_list\stack_linked_list\bin\Debug\stack_linked_list.exe.config
+C:\Users\csdat\source\repos\stack_linked_list\stack_linked_list\bin\Debug\stack_linked_list.exe
+C:\Users\csdat\source\repos\stack_linked_list\stack_linked_list\bin\Debug\stack_linked_list.pdb
+C:\Users\csdat\source\repos\stack_linked_list\stack_linked_list\obj\Debug\stack_linked_list.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\stack_linked_list\stack_linked_list\obj\Debug\stack_linked_list.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\stack_linked_list\stack_linked_list\obj\Debug\stack_linked_list.exe
+C:\Users\csdat\source\repos\stack_linked_list\stack_linked_list\obj\Debug\stack_linked_list.pdb

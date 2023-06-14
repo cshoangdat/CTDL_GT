@@ -1,0 +1,12 @@
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\bin\Debug\quanLyThuVien.exe.config
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\bin\Debug\quanLyThuVien.exe
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\bin\Debug\quanLyThuVien.pdb
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.Form1.resources
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.Properties.Resources.resources
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.exe
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.pdb
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.Form2.resources
+C:\Users\csdat\source\repos\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.Form3.resources

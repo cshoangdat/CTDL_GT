@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\bin\Debug\giaiPhuongTrinhBac1.exe.config
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\bin\Debug\giaiPhuongTrinhBac1.exe
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\bin\Debug\giaiPhuongTrinhBac1.pdb
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\obj\Debug\giaiPhuongTrinhBac1.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\obj\Debug\giaiPhuongTrinhBac1.Form1.resources
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\obj\Debug\giaiPhuongTrinhBac1.Properties.Resources.resources
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\obj\Debug\giaiPhuongTrinhBac1.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\obj\Debug\giaiPhuongTrinhBac1.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\obj\Debug\giaiPhuongTrinhBac1.exe
+C:\Users\csdat\source\repos\giaiPhuongTrinhBac1\giaiPhuongTrinhBac1\obj\Debug\giaiPhuongTrinhBac1.pdb

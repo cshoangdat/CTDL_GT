@@ -1,0 +1,9 @@
+C:\Users\csdat\source\repos\Mảng\Mảng\bin\Debug\Mảng.exe.config
+C:\Users\csdat\source\repos\Mảng\Mảng\bin\Debug\Mảng.exe
+C:\Users\csdat\source\repos\Mảng\Mảng\bin\Debug\Mảng.pdb
+C:\Users\csdat\source\repos\Mảng\Mảng\obj\Debug\Mảng.Form1.resources
+C:\Users\csdat\source\repos\Mảng\Mảng\obj\Debug\Mảng.Properties.Resources.resources
+C:\Users\csdat\source\repos\Mảng\Mảng\obj\Debug\Mảng.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\Mảng\Mảng\obj\Debug\Mảng.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\Mảng\Mảng\obj\Debug\Mảng.exe
+C:\Users\csdat\source\repos\Mảng\Mảng\obj\Debug\Mảng.pdb

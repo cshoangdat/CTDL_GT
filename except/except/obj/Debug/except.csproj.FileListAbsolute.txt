@@ -1,0 +1,9 @@
+C:\Users\csdat\source\repos\except\except\bin\Debug\except.exe.config
+C:\Users\csdat\source\repos\except\except\bin\Debug\except.exe
+C:\Users\csdat\source\repos\except\except\bin\Debug\except.pdb
+C:\Users\csdat\source\repos\except\except\obj\Debug\except.Form1.resources
+C:\Users\csdat\source\repos\except\except\obj\Debug\except.Properties.Resources.resources
+C:\Users\csdat\source\repos\except\except\obj\Debug\except.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\except\except\obj\Debug\except.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\except\except\obj\Debug\except.exe
+C:\Users\csdat\source\repos\except\except\obj\Debug\except.pdb

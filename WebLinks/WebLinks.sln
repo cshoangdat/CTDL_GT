@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLinks", "WebLinks\WebLinks.csproj", "{EFA4C9FF-A480-4FED-8160-4BC5CD3AA98D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA4C9FF-A480-4FED-8160-4BC5CD3AA98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA4C9FF-A480-4FED-8160-4BC5CD3AA98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA4C9FF-A480-4FED-8160-4BC5CD3AA98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA4C9FF-A480-4FED-8160-4BC5CD3AA98D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCF5E20F-21FE-4BC5-B616-2F1DFD8837A8}
+	EndGlobalSection
+EndGlobal

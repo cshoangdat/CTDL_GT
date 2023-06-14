@@ -1,0 +1,7 @@
+C:\Users\csdat\source\repos\Doubly Linked List\Doubly Linked List\bin\Debug\Doubly Linked List.exe.config
+C:\Users\csdat\source\repos\Doubly Linked List\Doubly Linked List\bin\Debug\Doubly Linked List.exe
+C:\Users\csdat\source\repos\Doubly Linked List\Doubly Linked List\bin\Debug\Doubly Linked List.pdb
+C:\Users\csdat\source\repos\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.exe
+C:\Users\csdat\source\repos\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.pdb

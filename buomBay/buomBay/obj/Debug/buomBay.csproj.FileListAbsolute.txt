@@ -1,0 +1,9 @@
+C:\Users\csdat\source\repos\buomBay\buomBay\bin\Debug\buomBay.exe.config
+C:\Users\csdat\source\repos\buomBay\buomBay\bin\Debug\buomBay.exe
+C:\Users\csdat\source\repos\buomBay\buomBay\bin\Debug\buomBay.pdb
+C:\Users\csdat\source\repos\buomBay\buomBay\obj\Debug\buomBay.Form1.resources
+C:\Users\csdat\source\repos\buomBay\buomBay\obj\Debug\buomBay.Properties.Resources.resources
+C:\Users\csdat\source\repos\buomBay\buomBay\obj\Debug\buomBay.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\buomBay\buomBay\obj\Debug\buomBay.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\buomBay\buomBay\obj\Debug\buomBay.exe
+C:\Users\csdat\source\repos\buomBay\buomBay\obj\Debug\buomBay.pdb

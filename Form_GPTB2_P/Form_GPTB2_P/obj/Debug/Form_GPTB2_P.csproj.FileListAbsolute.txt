@@ -1,0 +1,10 @@
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\bin\Debug\Form_GPTB2_P.exe.config
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\bin\Debug\Form_GPTB2_P.exe
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\bin\Debug\Form_GPTB2_P.pdb
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\obj\Debug\Form_GPTB2_P.csproj.AssemblyReference.cache
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\obj\Debug\Form_GPTB2_P.Form1.resources
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\obj\Debug\Form_GPTB2_P.Properties.Resources.resources
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\obj\Debug\Form_GPTB2_P.csproj.GenerateResource.cache
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\obj\Debug\Form_GPTB2_P.csproj.CoreCompileInputs.cache
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\obj\Debug\Form_GPTB2_P.exe
+C:\Users\csdat\source\repos\Form_GPTB2_P\Form_GPTB2_P\obj\Debug\Form_GPTB2_P.pdb
